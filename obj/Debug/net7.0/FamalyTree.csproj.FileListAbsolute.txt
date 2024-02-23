@@ -1,0 +1,15 @@
+/Users/rostislavnosovskij/Projects/FamalyTree/FamalyTree/obj/Debug/net7.0/FamalyTree.csproj.AssemblyReference.cache
+/Users/rostislavnosovskij/Projects/FamalyTree/FamalyTree/obj/Debug/net7.0/FamalyTree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rostislavnosovskij/Projects/FamalyTree/FamalyTree/obj/Debug/net7.0/FamalyTree.AssemblyInfoInputs.cache
+/Users/rostislavnosovskij/Projects/FamalyTree/FamalyTree/obj/Debug/net7.0/FamalyTree.AssemblyInfo.cs
+/Users/rostislavnosovskij/Projects/FamalyTree/FamalyTree/obj/Debug/net7.0/FamalyTree.csproj.CoreCompileInputs.cache
+/Users/rostislavnosovskij/Projects/FamalyTree/FamalyTree/bin/Debug/net7.0/FamalyTree
+/Users/rostislavnosovskij/Projects/FamalyTree/FamalyTree/bin/Debug/net7.0/FamalyTree.deps.json
+/Users/rostislavnosovskij/Projects/FamalyTree/FamalyTree/bin/Debug/net7.0/FamalyTree.runtimeconfig.json
+/Users/rostislavnosovskij/Projects/FamalyTree/FamalyTree/bin/Debug/net7.0/FamalyTree.dll
+/Users/rostislavnosovskij/Projects/FamalyTree/FamalyTree/bin/Debug/net7.0/FamalyTree.pdb
+/Users/rostislavnosovskij/Projects/FamalyTree/FamalyTree/obj/Debug/net7.0/FamalyTree.dll
+/Users/rostislavnosovskij/Projects/FamalyTree/FamalyTree/obj/Debug/net7.0/refint/FamalyTree.dll
+/Users/rostislavnosovskij/Projects/FamalyTree/FamalyTree/obj/Debug/net7.0/FamalyTree.pdb
+/Users/rostislavnosovskij/Projects/FamalyTree/FamalyTree/obj/Debug/net7.0/FamalyTree.genruntimeconfig.cache
+/Users/rostislavnosovskij/Projects/FamalyTree/FamalyTree/obj/Debug/net7.0/ref/FamalyTree.dll
